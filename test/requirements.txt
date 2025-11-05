@@ -1,0 +1,9 @@
+pika
+paho-mqtt
+pika
+pandas
+requests
+matplotlib
+prophet
+plotly
+paho-mqtt
